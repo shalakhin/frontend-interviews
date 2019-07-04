@@ -1,12 +1,13 @@
 # frontend-interviews
 test task for the junior frontend engineer
 
-Using React.js Create the page with the list (i.e. DC and Marvel Comics heroes) with the following:
+Using React.js and Redux create the page with the list (i.e. DC and Marvel Comics heroes, Twitter tweets, Reddit topics or thread, Github data etc.) with the following:
 
-- heroes list
+- items list
 - filters
 - search
 - API interaction
 - (*optional*) detail page
 - (*optional*) mobile version
 - (*optional*) tests
+- (*optional*) GraphQL API usage
